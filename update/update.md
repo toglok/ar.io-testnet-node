@@ -25,5 +25,5 @@ sudo docker system prune
 sudo docker-compose up -d --build
 ```
 * simpan key anda di direktori wallets
-
+![gamba](gambar/2.jpg)
 
