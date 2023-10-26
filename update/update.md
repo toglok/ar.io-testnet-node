@@ -1,6 +1,6 @@
 **update node**
 
-* masuk ke direktori node
+* 1 masuk ke direktori node
 ```
 cd node-ar-io
 ```
@@ -8,3 +8,7 @@ cd node-ar-io
 ```
 git pull
 ```
+* 2 matikan docker
+<blockquote style="background-color: #FFFF00; padding: 10px;">
+ VPS
+</blockquote>
