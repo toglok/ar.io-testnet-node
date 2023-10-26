@@ -9,6 +9,7 @@ cd node-ar-io
 git pull
 ```
 * 2 matikan docker
-<blockquote style="background-color: #FFFF00; padding: 10px;">
- VPS
-</blockquote>
+*untuk vps*
+```
+sudo docker-compose down -v
+```
