@@ -1,16 +1,21 @@
 **update node**
 
-* a.masuk ke direktori node
+* masuk ke direktori node
 ```
 cd node-ar-io
 ```
-* b.tarik perubahan terbaru
+* tarik perubahan terbaru
 ```
 git pull
 ```
-* b.matikan docker
-* 
+* matikan docker
+ 
 *untuk vps*
 ```
 sudo docker-compose down -v
 ```
+*untuk windows*
+```
+docker-compose down -v
+```
+
