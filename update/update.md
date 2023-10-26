@@ -62,7 +62,7 @@ contoh `https://toglok.xyz/ar-io/observer/reports/current`
 
 jika masih pending tunggu sebentar
 kalo sudah akan tampil seperti ini
-![gambar](gambar/4.jp)
+![gambar](gambar/4.jpg)
 
 ****selamat node sudah terupgrade****
 
