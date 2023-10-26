@@ -27,6 +27,6 @@ sudo docker-compose up -d --build
 * simpan key anda di direktori wallets
 ![gamba](gambar/2.jpg)
 
-*ganti nama wallet dengan nama `<public address>.json`
-misalnya : `QGWqtJdLLgm2ehFWiiPzMaoFLD50CnGuzZIPEdoDRGQ.json`
+*ganti nama wallet dengan nama `<public address>.json`*
+misalnya : `QGWqtJdLLgm2ehFWiiPzMaoFLD50CnGuzZIPEdoDRGQ.json`*
 
