@@ -1,0 +1,4 @@
+*arahkan ke folder anda
+'''bash
+cd ar-io-node
+'''
