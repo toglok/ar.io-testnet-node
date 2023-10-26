@@ -1,6 +1,6 @@
 **update node**
 
-* pertama ubah ke di rektori proyek anda
-```
-cd ar-io-node
-```
+* masuk ke direktori node
+```cd node-ar-io```
+* tarik perubahan terbaru
+```git pull```
