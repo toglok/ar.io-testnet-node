@@ -13,6 +13,7 @@ git pull
 sudo docker-compose down -v
 ```
 * pangkas docker
+
 *ini opsioanl tapi lebih baik lakukan*
 ```
 sudo docker system prune
