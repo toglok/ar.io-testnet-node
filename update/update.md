@@ -18,5 +18,12 @@ sudo docker-compose down -v
 ```
 sudo docker system prune
 ```
+* run kembali docker
+
+*buat kembali container Docker untuk mengimplementasikan perubahan*
+```
+sudo docker-compose up -d --build
+```
+* simpan key anda di direktori wallets
 
 
