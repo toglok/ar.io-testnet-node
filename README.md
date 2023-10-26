@@ -173,9 +173,3 @@ Copy command ini agar faucet yang di berikan akan di stake
 yarn ts-node tools/join-network.ts
 ```
 
-```
-
-Gantilah `domain.com` dengan domain yang Anda miliki di seluruh file README.md. Setelah Anda mengganti semua nilai yang sesuai, Anda dapat menyimpan file ini sebagai `README.md` di repositori GitHub Anda. Jika Anda ingin menambahkan lebih banyak konten atau mengatur tata letak dengan lebih baik, Anda dapat memahami sintaksis Markdown yang digunakan dalam file ini.
-
-Setelah menyimpan file README.md, unggahnya ke repositori GitHub Anda. Pastikan file ini berada di root direktori repositori Anda. Setelah itu, ketika seseorang mengunjungi repositori GitHub Anda, README.md akan ditampilkan sebagai panduan atau dokumentasi untuk proyek Anda.
-```
