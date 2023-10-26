@@ -1,14 +1,14 @@
 **update node**
 
-* 1 masuk ke direktori node
+* a.masuk ke direktori node
 ```
 cd node-ar-io
 ```
-* tarik perubahan terbaru
+* b.tarik perubahan terbaru
 ```
 git pull
 ```
-* 2 matikan docker
+* b.matikan docker
 * 
 *untuk vps*
 ```
