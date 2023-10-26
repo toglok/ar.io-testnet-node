@@ -29,5 +29,20 @@ sudo docker-compose up -d --build
 
 *ganti nama wallet dengan nama `<public address>.json`*
 
-misalnya : `QGWqtJdLLgm2ehFWiiPzMaoFLD50CnGuzZIPEdoDRGQ.json`
+misalnya : `JAmilWnUXiVsHBgu8fqh0XiUbirJnL_DLRJMMttYo9Q.json`
+
+* tambahkan OBSERVER dan OBSERVER wallet di `.env` file
+**edit file `.env`**
+```
+nano .env
+```
+
+**tambahkan ini ke dalam file `.env`**
+```
+RUN_OBSERVER=true
+OBSERVER_WALLET=<isi dengan addres kamu>
+```
+! [gambar](gambar/3.jpg)
+
+
 
