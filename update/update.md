@@ -32,6 +32,7 @@ sudo docker-compose up -d --build
 misalnya : `JAmilWnUXiVsHBgu8fqh0XiUbirJnL_DLRJMMttYo9Q.json`
 
 * tambahkan OBSERVER dan OBSERVER wallet di `.env` file
+
 **edit file `.env`**
 ```
 nano .env
@@ -43,6 +44,28 @@ RUN_OBSERVER=true
 OBSERVER_WALLET=<isi dengan addres kamu>
 ```
 ![gambar](gambar/3.jpg)
+kalo sudah `ctrl+x` `y` `enter`
+
+* matikan docker
+```
+sudo docker-compose down -v
+```
+* mulai ulang docker 
+```
+sudo docker-compose up -d --build
+```
+###selesai
+
+buka ```ttps://<domainkamu>/ar-io/observer/reports/current```
+
+contoh `https://toglok.xyz/ar-io/observer/reports/current`
+
+jika masih pending tunggu sebentar
+kalo sudah akan tampil seperti ini
+![gambar](gambar/4.jp)
+
+****selamat node sudah terupgrade****
+
 
 
 
