@@ -42,7 +42,7 @@ nano .env
 RUN_OBSERVER=true
 OBSERVER_WALLET=<isi dengan addres kamu>
 ```
-! [gambar](gambar/3.jpg)
+![gambar](gambar/3.jpg)
 
 
 
