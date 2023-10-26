@@ -15,7 +15,7 @@ sudo apt update && sudo apt upgrade -y && sudo apt-get update && sudo apt instal
 # Mengatur Domain
 
 a. Setelah anda membeli domain tadi saya sarankan anda menyambungkanya ke [Cloudflare](https://dash.cloudflare.com/) dengan cara name servernya yang di ubah
-![gambar](gambar/12.jpg){width=400 height=300}
+![gambar](gambar/1.jpg){width=400 height=300}
 b. Jika domain anda sudah di set ke Cloudflare maka anda harus membuat DNS seperti gambar berikut ini :
 
 - Buat DNS dengan TYPE A DAN NAME NYA \* LALU VALUE(CONTENT) BERISI IP ADDRES VPS TEMAN-TEMAN
