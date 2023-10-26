@@ -28,5 +28,6 @@ sudo docker-compose up -d --build
 ![gamba](gambar/2.jpg)
 
 *ganti nama wallet dengan nama `<public address>.json`*
-misalnya : `QGWqtJdLLgm2ehFWiiPzMaoFLD50CnGuzZIPEdoDRGQ.json`*
+
+misalnya : `QGWqtJdLLgm2ehFWiiPzMaoFLD50CnGuzZIPEdoDRGQ.json`
 
