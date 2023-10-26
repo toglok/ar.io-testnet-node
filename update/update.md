@@ -1,4 +1,4 @@
-# Update h1
+## Update node
 
 * masuk ke direktori node
 ```
@@ -9,13 +9,13 @@ cd node-ar-io
 git pull
 ```
 * matikan docker
- 
-*untuk vps*
 ```
 sudo docker-compose down -v
 ```
-*untuk windows*
+* pangkas docker
+*ini opsioanl tapi lebih baik lakukan*
 ```
-docker-compose down -v
+sudo docker system prune
 ```
+
 
