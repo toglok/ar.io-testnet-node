@@ -65,7 +65,7 @@ contoh `https://toglok.xyz/ar-io/observer/reports/current`
 **kalo sudah akan tampil seperti ini**
 ![gambar](gambar/4.jpg)
 
-####selamat node sudah terupgrade####
+#### selamat node sudah terupgrade
 
 
 
